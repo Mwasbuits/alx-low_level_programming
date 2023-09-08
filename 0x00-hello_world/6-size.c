@@ -1,5 +1,8 @@
 #include <stdio.h>
-#include <stdint.h>
+/**
+ * main- A program to print various types on the computer
+ * Return: 0 (Success)
+ */
 int main(void)
 {
 printf("Size of int8_t: %zu byte(s)\n", sizeof(int8_t));
