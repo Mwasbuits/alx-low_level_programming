@@ -10,16 +10,11 @@
 
 int main(void)
 {
-	char letter = 'a';
+	char low;
 
-	while (letter <= 'z');
-
-	{
-		putchar(letter);
-		letter++;
-	}
-
-	putchar('\n');
+	for (low = 'a'; low <= 'z'; low++)
+		putchar(low);
+		putchar('\n');
 
 	return (0);
 }
