@@ -6,6 +6,7 @@
  * Description-assign a random number to the variable n when executed
  * Return: 0 (Success)
  */
+
 int main(void)
 {
 	int n;
