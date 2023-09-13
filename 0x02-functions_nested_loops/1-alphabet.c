@@ -5,13 +5,16 @@
  * printing alphabet in lowe case
  * Return: 0 (Success)
  */
-int main(void)
-{
-	char i;
 
-	for (i = 'a'; i <= 'z'; i++)
-		_putchar(i);
+void print_alphabet(void)
+
+{
+	char b;
+
+	for (b = 'a'; b <= 'z'; b++)
+	{
+		_putchar(b);
+	}
 	_putchar('\n');
 
-	return (0);
 }
