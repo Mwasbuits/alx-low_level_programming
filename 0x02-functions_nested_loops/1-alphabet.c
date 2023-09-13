@@ -2,7 +2,8 @@
 
 /**
  * main-Entry point
- * printing alphabet in lowe case
+ * Description-print_alphabet
+ *
  * Return: 0 (Success)
  */
 
