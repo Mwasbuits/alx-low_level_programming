@@ -2,8 +2,8 @@
 
 /**
  * Main -entry point
- * int _isupper(int c)- @c
- * function checking for upper case character
+ * _isupper(int c)- @c checks for uppercase character
+ * @c: input character
  * Return: 1 (Uppercase) or 0 (otherwise)
  */
 
